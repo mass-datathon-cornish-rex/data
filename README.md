@@ -3,4 +3,4 @@ data
 
 Data dump with normalized tables / sample queries
 
-Full credit belongs to Evan Patton 
+Full credit for Version 1.0 belongs to Evan Patton @ewpatton
