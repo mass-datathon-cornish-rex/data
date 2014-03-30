@@ -1,7 +1,8 @@
 # scripts
 
 ## createGeoJson.js
-### Quick and dirty Node.js script to convert postgresql json rows to FeatureCollection-type geojson format
+Quick and dirty Node.js script to convert postgresql json rows to FeatureCollection-type geojson format
+
 ### Usage
 - Export rows from postgresql as json, e.g. execute the following query and save as "data_grid_250m_shape_10rows.json":  
 	```SELECT row_to_json(row) FROM 
